@@ -8,7 +8,7 @@ use App\Traits\HttpResponses;
 class AuthController extends Controller
 {
 
-    //  1|fAh5bgsAIvOfNvLGksDy2vC38kmkP4INNMbl3w3ibca40513
+    //
     use HttpResponses;
 
     public function login(Request $request){
